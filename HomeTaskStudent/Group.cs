@@ -45,8 +45,13 @@ namespace HomeTaskStudent
 
         public void GetAllStudents()
         {
+
             foreach (var item in Students)
             {
+                if(item.age == 0)
+                {
+                    continue;
+                }
                 Console.WriteLine($"Name : {item.name}\nSurname : {item.surname}\nAge : {item.age}\nId : {item.Id}\nPoint : {item.point}\n");
             }
         }

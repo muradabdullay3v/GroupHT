@@ -13,7 +13,7 @@ namespace HomeTaskStudent
         public string surname;
         public int age;
         public int point;
-        public bool isWrong;
+        public bool isWrong = false;
 
         public Student(string name , string surname , int age , int Id ,int point)
         {
