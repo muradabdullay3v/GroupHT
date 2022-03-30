@@ -1,0 +1,15 @@
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\bin\Debug\net6.0\HomeTaskStudent.exe
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\bin\Debug\net6.0\HomeTaskStudent.deps.json
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\bin\Debug\net6.0\HomeTaskStudent.runtimeconfig.json
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\bin\Debug\net6.0\HomeTaskStudent.dll
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\bin\Debug\net6.0\HomeTaskStudent.pdb
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.csproj.AssemblyReference.cache
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.AssemblyInfoInputs.cache
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.AssemblyInfo.cs
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.csproj.CoreCompileInputs.cache
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.dll
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\refint\HomeTaskStudent.dll
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.pdb
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\HomeTaskStudent.genruntimeconfig.cache
+F:\VS pr\HomeTaskStudent\HomeTaskStudent\obj\Debug\net6.0\ref\HomeTaskStudent.dll
